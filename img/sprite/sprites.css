@@ -1,0 +1,136 @@
+.features_learning, .features_photo, .features_reliability, .features_view, .about-fly_ballon, .contacts_tw, .contacts_fb_hover, .contacts_vk, .contacts_plane, .contacts_email, .contacts_pointer, .contacts_question, .payment_name, .payment_phone, .promo_arrow, .scroll_arrow, .contacts_tw_hover, .contacts_fb, .contacts_vk_hover, .team_1_hover, .team_3_hover, .team_4_hover{
+	background: url(sprites.png) no-repeat;
+}
+
+.features_learning{
+	background-position: 0 0;
+	width: 75px;
+	height: 28px;
+}
+
+.features_photo{
+	background-position: -100px 0;
+	width: 65px;
+	height: 50px;
+}
+
+.features_reliability{
+	background-position: -200px 0;
+	width: 55px;
+	height: 58px;
+}
+
+.features_view{
+	background-position: -300px 0;
+	width: 72px;
+	height: 34px;
+}
+
+.about-fly_ballon{
+	background-position: -400px 0;
+	width: 43px;
+	height: 65px;
+}
+
+.contacts_tw{
+	background-position: 0 -100px ;
+	width: 22px;
+	height: 23px;
+}
+
+.contacts_fb_hover{
+	background-position: -50px -100px ;
+	width: 22px;
+	height: 23px;
+}
+
+.contacts_vk{
+	background-position: -100px -100px ;
+	width: 22px;
+	height: 23px;
+}
+
+.contacts_plane{
+	background-position: -150px -100px ;
+	width: 41px;
+	height: 40px;
+}
+
+.contacts_email{
+	background-position: -200px -100px ;
+	width: 23px;
+	height: 17px;
+}
+
+.contacts_pointer{
+	background-position: -250px -100px ;
+	width: 35px;
+	height: 50px;
+}
+
+.contacts_question{
+	background-position: -300px -100px ;
+	width: 40px;
+	height: 34px;
+}
+
+.payment_name{
+	background-position: 0 -150px ;
+	width: 15px;
+	height: 15px;
+}
+
+.payment_phone{
+	background-position: -50px -150px ;
+	width: 19px;
+	height: 19px;
+}
+
+.promo_arrow{
+	background-position: -100px -150px ;
+	width: 18px;
+	height: 29px;
+}
+
+.scroll_arrow{
+	background-position: -150px -150px ;
+	width: 28px;
+	height: 28px;
+}
+
+.contacts_tw_hover{
+	background-position: -200px -150px ;
+	width: 22px;
+	height: 23px;
+}
+
+.contacts_fb{
+	background-position: -300px -150px ;
+	width: 22px;
+	height: 23px;
+}
+
+.contacts_vk_hover{
+	background-position: -350px -150px ;
+	width: 22px;
+	height: 23px;
+}
+
+.team_1_hover{
+	background-position: 0 -200px ;
+	width: 198px;
+	height: 175px;
+}
+
+.team_3_hover{
+	background-position: -250px -200px ;
+	width: 187px;
+	height: 187px;
+}
+
+.team_4_hover{
+	background-position: -450px -200px ;
+	width: 185px;
+	height: 184px;
+}
+

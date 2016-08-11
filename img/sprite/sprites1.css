@@ -1,0 +1,22 @@
+.team_1_hover, .team_3_hover, .team_4_hover{
+	background: url(sprites.png) no-repeat;
+}
+
+.team_1_hover{
+	background-position: 0 0;
+	width: 198px;
+	height: 175px;
+}
+
+.team_3_hover{
+	background-position: -250px 0;
+	width: 187px;
+	height: 187px;
+}
+
+.team_4_hover{
+	background-position: 0 -200px ;
+	width: 185px;
+	height: 184px;
+}
+
